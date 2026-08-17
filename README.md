@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Mehul+Gupta+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+into+Real+Products+%F0%9F%9A%80" />
+</p>
+
 # 💫 About Me:
 - 🌱 I’m currently learning AI <br>- 👯 I’m looking to collaborate on Full stack projects<br>- 💬 Ask me about  Web development<br>- 📫 How to reach me:  8799711385<br>- 😄 Pronouns: He/Him<br>
 
@@ -12,11 +16,13 @@
 ![](https://streak-stats.demolab.com/?user=mehul-10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mehul-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehul-10&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
 [![](https://komarev.com/ghpvc/?username=mehul-10&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🐍 Contribution Graph
-
-![GitHub Snake](https://raw.githubusercontent.com/mehul-10/mehul-10/output/github-contribution-grid-snake.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
