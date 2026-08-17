@@ -17,12 +17,16 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mehul-10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-## 🏆 GitHub Trophies
+[![](https://komarev.com/ghpvc/?username=mehul-10&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehul-10&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+  <b>Thanks for visiting my profile! 🚀</b>
+  <br>
+  Let's build something amazing together.
 </p>
 
-[![](https://komarev.com/ghpvc/?username=mehul-10&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehul-10&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
