@@ -26,7 +26,4 @@
   Let's build something amazing together.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehul-10&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
