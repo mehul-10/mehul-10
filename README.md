@@ -20,7 +20,7 @@
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b>
   <br>
-  Let's build something really amazing together.
+  Let's build something amazing together.
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
