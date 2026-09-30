@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-- 🌱 I’m currently learning AI & ML <br>- 👯 I’m looking to collaborate on Full stack projects<br>- 💬 Ask me about  Web development<br>- 📫 How to reach me:  8799711385<br>- 😄 Pronouns: He/Him<br>
+- 🌱 I’m currently learning AI & ML <br>- 👯 I’m looking to collaborate on Full stack projects<br>- 💬 Ask me about  Web development<br>- 📫 How to reach me:  8799711385<br>
 
 
 ## 🌐 Socials:
